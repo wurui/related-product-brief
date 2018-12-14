@@ -17,35 +17,49 @@
     <data>
         <ecom-products>
             <i>
-                <title>纯色毛绒哈居拖鞋</title>
-                <brief>居家伴侣</brief>
-                <price>19.9</price>
-                <orig_price>29.9</orig_price>
-                <inventory>10</inventory>
-                <category></category>
-                <sold>0</sold>
-                <owner>git/wurui</owner>
+                <title>2019款麦腾1.4T</title>
+                <brief>三年0利率，首付2万</brief>
+                
                 <description></description>
                 <media>
                     <i>
-                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29uhgj9mzTjouwic2tRwkj2Agdb-1000.png</src>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29tok90guTjpnssl8yRkb37A182y-667.png</src>
                         <type>image</type>
                     </i>
                 </media>
             </i>
             <i>
-                <title>Amozon Kindle7 Paperwhite</title>
-                <brief>最新款　性能强大　阅读伴侣</brief>
-                <price>699</price>
-                <orig_price>899</orig_price>
-                <inventory>10</inventory>
-                <category></category>
-                <sold>0</sold>
-                <owner>git/wurui</owner>
+                <title>2018款麦腾1.4T</title>
+                <brief>三年0利率，首付2万起</brief>
+                
                 <description></description>
                 <media>
                     <i>
-                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29uhgj88vTjouwidgxRg5ftA80l-1000.png</src>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29tok8zqzTjpnsslytR0cw9A13op-667.png</src>
+                        <type>image</type>
+                    </i>
+                </media>
+            </i>
+            <i>
+                <title>2015款 Sportback 35 TFSI</title>
+                <brief>2年免息，首付2万起</brief>
+                
+                <description></description>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29tok8yrrTjpnssmy1RekttA193e-667.jpg</src>
+                        <type>image</type>
+                    </i>
+                </media>
+            </i>
+            <i>
+                <title>2019款麦腾1.4T</title>
+                <brief>三年0利率，首付2万起</brief>
+                
+                <description></description>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29tok8yaeTjpnssnfeRi43qA1i1m-667.png</src>
                         <type>image</type>
                     </i>
                 </media>
